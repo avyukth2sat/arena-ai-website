@@ -8,7 +8,6 @@ import { btnPrimary } from "./ui";
 const NAV = [
   { href: "/kitchen", label: "Kitchen" },
   { href: "/substitutes", label: "Swap Library" },
-  { href: "/recipes", label: "Cookbook" },
   { href: "/#how-it-works", label: "How it works" },
 ];
 
