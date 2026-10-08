@@ -1,0 +1,10 @@
+{
+  "name": "culturize-local-clone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local, self-contained Culturize website replica based on the supplied live reference.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
